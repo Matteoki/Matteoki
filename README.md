@@ -9,8 +9,6 @@ I love remastering wii games textures, its fun, you learn a lot, and you help ot
 
 ### Youtube
 - Matteoki
-- Matteoki Gaming
-- Game Restorers
 
 <!---
 Matteoki/Matteoki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
